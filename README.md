@@ -1,0 +1,2 @@
+# Udacity_AI-Nanodegree
+This repository contains all the projects that were done for the Udacity AI Nanodegree program. This was a 6-months long program that started by covering the fundamentals of AI and later in term 2 moved on to applications of deep learning to different types of problems. I picked as my specialization Machine Vision which was most relevant to my current position as a research scientist at Phase Technology.
